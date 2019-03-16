@@ -1,0 +1,1 @@
+﻿var utilityApp = angular.module('utilityApp', ['ui.bootstrap']);
